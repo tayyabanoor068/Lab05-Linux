@@ -1,0 +1,15 @@
+total 56
+drwxr-x--- 9 tayyabanoor068 tayyabanoor068 4096 Oct 16 04:36 .
+drwxr-xr-x 3 root           root           4096 Sep 13 08:30 ..
+-rw------- 1 tayyabanoor068 tayyabanoor068 1006 Oct  7 11:34 .bash_history
+-rw-r--r-- 1 tayyabanoor068 tayyabanoor068  220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 tayyabanoor068 tayyabanoor068 3771 Feb 13  2026 .bashrc
+drwx------ 2 tayyabanoor068 tayyabanoor068 4096 Sep 13 08:35 .cache
+-rw-rw-r-- 1 tayyabanoor068 tayyabanoor068  188 Oct 16 04:30 .gitconfig
+-rw-r--r-- 1 tayyabanoor068 tayyabanoor068  807 Feb 13  2026 .profile
+drwx------ 2 tayyabanoor068 tayyabanoor068 4096 Oct 16 04:26 .ssh
+drwxrwxr-x 3 tayyabanoor068 tayyabanoor068 4096 Oct  7 17:48 Assignment01
+drwxrwxr-x 3 tayyabanoor068 tayyabanoor068 4096 Oct  6 14:13 CC
+drwxrwxr-x 3 tayyabanoor068 tayyabanoor068 4096 Oct  7 11:41 Gitea
+drwxrwxr-x 5 tayyabanoor068 tayyabanoor068 4096 Oct 16 04:39 lab05-linux
+drwxrwxr-x 2 tayyabanoor068 tayyabanoor068 4096 Sep 18 15:56 mylab
