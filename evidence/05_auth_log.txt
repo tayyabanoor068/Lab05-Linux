@@ -1,0 +1,16 @@
+2026-10-16T08:13:23.027181+00:00 ubuntu sudo: tayyabanoor068 : TTY=/dev/pts/1 ; PWD=/home/tayyabanoor068/lab05-linux ; USER=root ; COMMAND=/usr/sbin/adduser lab5user
+2026-10-16T08:13:23.417083+00:00 ubuntu groupadd[28422]: group added to /etc/group: name=lab5user, GID=1001
+2026-10-16T08:13:23.423673+00:00 ubuntu groupadd[28422]: group added to /etc/gshadow: name=lab5user
+2026-10-16T08:13:23.426179+00:00 ubuntu groupadd[28422]: new group: name=lab5user, GID=1001
+2026-10-16T08:13:23.494924+00:00 ubuntu useradd[28427]: new user: name=lab5user, UID=1001, GID=1001, home=/home/lab5user, shell=/bin/bash, from=/dev/pts/2
+2026-10-16T08:13:40.947562+00:00 ubuntu passwd[28438]: pam_unix(passwd:chauthtok): password changed for lab5user
+2026-10-16T08:14:36.933241+00:00 ubuntu chfn[28443]: changed user 'lab5user' information
+2026-10-16T08:14:42.493020+00:00 ubuntu gpasswd[28454]: members of group users set by root to tayyabanoor068,lab5user
+2026-10-16T08:16:51.758022+00:00 ubuntu unix_chkpwd[28490]: password check failed for user (lab5user)
+2026-10-16T08:16:51.765934+00:00 ubuntu su: pam_unix(su-l:auth): authentication failure; logname=tayyabanoor068 uid=1000 euid=0 tty=/dev/pts/1 ruser=tayyabanoor068 rhost=  user=lab5user
+2026-10-16T08:16:53.791928+00:00 ubuntu su[28487]: FAILED SU (to lab5user) tayyabanoor068 on pts/1
+2026-10-16T08:18:51.755757+00:00 ubuntu su[28506]: (to lab5user) tayyabanoor068 on pts/1
+2026-10-16T08:18:51.772826+00:00 ubuntu su[28506]: pam_unix(su-l:session): session opened for user lab5user(uid=1001) by tayyabanoor068(uid=1000)
+2026-10-16T08:21:01.942447+00:00 ubuntu su[28506]: pam_unix(su-l:session): session closed for user lab5user
+2026-10-16T08:21:44.382662+00:00 ubuntu sudo: tayyabanoor068 : TTY=/dev/pts/1 ; PWD=/home/tayyabanoor068/lab05-linux ; USER=root ; COMMAND=/usr/bin/grep lab5user /var/log/auth.log
+2026-10-16T08:21:44.467459+00:00 ubuntu sudo: tayyabanoor068 : TTY=/dev/pts/1 ; PWD=/home/tayyabanoor068/lab05-linux ; USER=root ; COMMAND=/usr/bin/grep lab5user /var/log/auth.log

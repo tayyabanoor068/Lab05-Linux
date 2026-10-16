@@ -1,0 +1,1 @@
+lab5user:x:1001:1001:Tayyaba Noor,FA24B1-SE-068,0356789432,03415725819,03261010603:/home/lab5user:/bin/bash
